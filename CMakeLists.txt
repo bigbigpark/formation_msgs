@@ -15,6 +15,9 @@ add_message_files(
   FormationCollision.msg
   ObstacleType.msg
   ObstacleArr.msg
+  FormationPositionArr.msg
+  FutureStateType.msg
+  FutureStateArr.msg
 )
 
 generate_messages(

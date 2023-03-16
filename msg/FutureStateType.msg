@@ -1,0 +1,2 @@
+FormationCmdVelArr[] cmd
+FormationPositionArr[] pos
