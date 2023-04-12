@@ -18,6 +18,7 @@ add_message_files(
   FormationPositionArr.msg
   FutureStateType.msg
   FutureStateArr.msg
+  Pose2D.msg
 )
 
 generate_messages(

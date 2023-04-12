@@ -1,2 +1,4 @@
 std_msgs/Header header
-geometry_msgs/PoseArray[] robot_ref_traj
+float32 x
+float32 y
+float32 th
