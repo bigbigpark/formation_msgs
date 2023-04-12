@@ -1,2 +1,4 @@
 std_msgs/Header header
-ObstacleType[] obs
+float32 x
+float32 y
+float32 th
