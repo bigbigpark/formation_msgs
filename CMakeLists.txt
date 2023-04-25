@@ -19,6 +19,8 @@ add_message_files(
   FutureStateType.msg
   FutureStateArr.msg
   Pose2D.msg
+  RefTrajType.msg
+  RefTrajArray.msg
 )
 
 generate_messages(
